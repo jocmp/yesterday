@@ -2,7 +2,6 @@
 
 require "rss"
 require "open-uri"
-require "debug"
 
 FEED_URL = "https://feeds.theoutline.com/tomorrow"
 
