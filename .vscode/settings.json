@@ -1,0 +1,6 @@
+{
+  "ruby.format": "standard",
+  "ruby.intellisense": "rubyLocate",
+  "ruby.useBundler": true,
+  "ruby.useLanguageServer": true
+}
